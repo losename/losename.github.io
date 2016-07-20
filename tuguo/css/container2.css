@@ -71,7 +71,7 @@ ul div h6{
 ul div .xl_star{
 	width: 10.724%;
 	position: absolute;
-	bottom: -0.06rem;
+	bottom: 0;
 	right: 0;
 }
 @media screen and (max-width: 700px){
